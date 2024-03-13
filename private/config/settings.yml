@@ -101,7 +101,7 @@ public:
     enableNetworkMonitoring: false
     packetLostThreshold: 10
   kurento:
-    wsUrl: wss://fl.cf.media.vdream.co.kr/bbb-webrtc-sfu
+    wsUrl: wss://bbb.avinyaweb.com/bbb-webrtc-sfu
     # Valid for video-provider. Time (ms) before its WS connection times out
     # and tries to reconnect.
     wsConnectionTimeout: 4000
